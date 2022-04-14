@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bb244f8cec3a84f41add4f6efcc62e0d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Chunky Cheese
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 65157405cf4b18d4c93068018d9f6b3a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
